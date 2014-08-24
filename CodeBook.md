@@ -18,3 +18,10 @@
   6. if the variable name ends in vector it indicates which three dimensional axis the to which the measurement applies (variable name will have "xvector", "yvector", or "zvector")
 
 - **mean** – the average of the measurement values grouped by activtyname, subjectnumber, and measurement
+
+**More information regarding the original data can be found in the source files**
+
+[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)  
+  
+  
+ [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
