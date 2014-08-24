@@ -1,4 +1,4 @@
-**finalsensordata.txt is made up of the following 4 fields**
+#**finalsensordata.txt is made up of the following 4 fields**
 
 - **activityname** – the name of the activity
 	  1. WALKING
