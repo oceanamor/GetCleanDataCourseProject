@@ -39,7 +39,7 @@ finalsensordata.txt – final summarized output data described in CodeBook.md
 4. Appropriately labels the data set with descriptive variablenames.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-**Set your working directory so path references will work accurately (commented out for peer review**
+**Set your working directory so path references will work accurately (commented out for peer review)**
 
 setwd("~/JohnsHopkinsDataScience/RFiles/GettingCleaningData/")
 
